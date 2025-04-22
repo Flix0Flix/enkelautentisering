@@ -1,0 +1,7 @@
+# Ignore node_modules directory
+node_modules/
+
+# Optional: other common ignores for Node.js projects
+.env
+.DS_Store
+npm-debug.log
